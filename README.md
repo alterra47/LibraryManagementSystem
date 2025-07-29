@@ -63,7 +63,9 @@ System Design Approach:
 The Library Management System will optimize library operations by offering a centralized digital solution to manage books and members efficiently. The project will focus on ensuring data accuracy, improving accessibility, and automating routine tasks to reduce manual workload.
 
 ***ER Tables***
+
 <img width="576" height="376" alt="Aspose Words ef69923d-1570-4884-b897-ad0e1d3e339b 001" src="https://github.com/user-attachments/assets/d6643db0-0f6f-480d-8c39-b7a267109a4b" />
 
 **Normalised Tables**
+
 <img width="495" height="407" alt="Aspose Words ef69923d-1570-4884-b897-ad0e1d3e339b 002" src="https://github.com/user-attachments/assets/a2a7cf4b-ed7c-4db9-a665-264d0b05eda6" />
